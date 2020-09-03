@@ -1,0 +1,134 @@
+body {
+    background-color:lightseagreen;
+ 
+}
+.viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
+h1 {
+    color: #000000;
+}
+
+.border{
+    border: solid #000000;
+}
+.mygames1{
+  margin: 2%;
+  padding: 1%;
+  border-radius: 40%;
+
+}
+a{
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.myvideos{
+    display:flex;
+    justify-content: space-around;
+    align-self: center; 
+   
+}
+
+.viewmore{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+    margin-right: 4%;
+}
+.maze2{
+    border: solid #000000;
+    background-color: #000000;
+}
+.info{
+    border: solid #000000;
+}
+.shoot{
+    border: solid #000000;  
+    background-color: #000000;
+}
+.header {
+   background-color: yellowgreen;
+   display:flex;
+   justify-content: space-around;
+   align-self: center;
+   border: solid #000000;
+}
+.pong{
+    border: solid #000000;
+    background-color: #000000;
+    position: relative;
+
+}
+
+.end{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+}
+.copyright{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+}
+.survey{
+    border: solid black;
+    background-color: yellowgreen;
+    padding: 0.5%;
+   margin-right: 75%;
+}
+.survey1{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+  
+}
+.names{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+    }
+    .me {
+        border: solid #000000;
+        background-color: lightblue;
+    }
+    .names1{
+        display:flex;
+        justify-content: space-around;
+        align-self: center;
+        }
+    
+.mygames1{
+    border: solid #000000;
+    background-color: lightskyblue;
+}
+.my_games{
+    display:flex;
+   justify-content: space-around;
+   align-self: center;
+}
+
+
+.aboutme1{
+   
+    border: solid;
+  
+}
+.text{
+     border:solid;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+p,h2{
+    text-align: center;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
